@@ -1,0 +1,18 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [],
+ "imagePath": "73e8732b950ef85a.jpg",
+ "imageData": null,
+ "imageHeight": 1165,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Plate_II._Drone_cells_(R,_upper_L),_foul-brood_worker-cells.jpg",
+ "license": "Public domain",
+ "author": "Isaac Hopkins (Q106121459)",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

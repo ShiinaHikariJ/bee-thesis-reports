@@ -1,0 +1,31 @@
+{
+ "max_det": 300,
+ "bee_public_val": {
+  "positive_images": 156,
+  "gt_boxes": 1809,
+  "negative_views": 0,
+  "ap50_positives_only": 0.8589442397157053,
+  "ap50_with_negatives": 0.8589442397157053,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.8498312710911136,
+  "recall": 0.8352681039248203,
+  "precision_including_negatives": 0.8498312710911136,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "bee_external_hivemind": {
+  "positive_images": 199,
+  "gt_boxes": 5134,
+  "negative_views": 0,
+  "ap50_positives_only": 0.5681350013806273,
+  "ap50_with_negatives": 0.5681350013806273,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.45814872470362833,
+  "recall": 0.7452278924814959,
+  "precision_including_negatives": 0.45814872470362833,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ }
+}

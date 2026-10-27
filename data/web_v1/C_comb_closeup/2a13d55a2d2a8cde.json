@@ -1,0 +1,45 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     269.8,
+     150.9
+    ],
+    [
+     1032.1,
+     150.9
+    ],
+    [
+     1032.1,
+     782.1
+    ],
+    [
+     269.8,
+     782.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.52",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "2a13d55a2d2a8cde.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_carnica_worker_honeycomb_2.jpg",
+ "license": "CC BY-SA 2.5",
+ "author": "Richard Bartz, Munich Makro Freak &amp; Beemaster Hubert Seibring, Munich which gave me advice and a protection suite ;) My dog cashed 6 bee-sticks on the nose, i cashed 4.",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

@@ -1,0 +1,29 @@
+{
+  "family": "dinov3s",
+  "tasks": [
+    "content"
+  ],
+  "steps": 6000,
+  "batch": {
+    "content": 64
+  },
+  "lr": 0.001,
+  "backbone_lr": 0.0001,
+  "optimizer": "AdamW wd 5e-4",
+  "warmup_steps": 500,
+  "schedule": "linear warmup then cosine to 5%",
+  "amp": "fp16 autocast",
+  "loss_weights": "equal (1.0 each)",
+  "e2e_decay_segments": 20,
+  "seed": 20261023,
+  "parameters": {
+    "total": 24487624,
+    "backbone": 23812032,
+    "content_head": 675592
+  },
+  "checkpoint_selection": "final step; no validation-based selection",
+  "backward": "per task (gradients accumulate)",
+  "improve": [],
+  "bee_extra": null,
+  "cell_labels": "DeepBee-derived"
+}

@@ -1,0 +1,164 @@
+{
+ "family": "dinov3s",
+ "tasks": [
+  "bee",
+  "cell",
+  "queen",
+  "content"
+ ],
+ "parameters": {
+  "total": 36446209,
+  "backbone": 23812032,
+  "branch_bee": 3986195,
+  "branch_cell": 3986195,
+  "branch_queen": 3986195,
+  "content_head": 675592
+ },
+ "bee_public_val": {
+  "positive_images": 156,
+  "gt_boxes": 1809,
+  "negative_views": 0,
+  "ap50_positives_only": 0.7449895753491821,
+  "ap50_with_negatives": 0.7449895753491821,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.7838785046728972,
+  "recall": 0.7418463239358761,
+  "precision_including_negatives": 0.7838785046728972,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "bee_external_hivemind": {
+  "positive_images": 199,
+  "gt_boxes": 5134,
+  "negative_views": 0,
+  "ap50_positives_only": 0.5500435413885503,
+  "ap50_with_negatives": 0.5500435413885503,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.42854004174447985,
+  "recall": 0.7598363848850799,
+  "precision_including_negatives": 0.42854004174447985,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "queen_val": {
+  "positive_images": 176,
+  "gt_boxes": 355,
+  "negative_views": 152,
+  "ap50_positives_only": 0.8769875856662844,
+  "ap50_with_negatives": 0.8740297368303638,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.775,
+  "recall": 0.8732394366197183,
+  "precision_including_negatives": 0.7673267326732673,
+  "negative_false_positives": 4,
+  "negative_views_with_any_detection": 3,
+  "negative_fp_per_view": 0.02631578947368421
+ },
+ "queen_test": {
+  "positive_images": 98,
+  "gt_boxes": 205,
+  "negative_views": 0,
+  "ap50_positives_only": 0.8567771071736867,
+  "ap50_with_negatives": 0.8567771071736867,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.8349056603773585,
+  "recall": 0.8634146341463415,
+  "precision_including_negatives": 0.8349056603773585,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "queen_external": {
+  "positive_images": 152,
+  "gt_boxes": 343,
+  "negative_views": 600,
+  "ap50_positives_only": 0.37392287535890767,
+  "ap50_with_negatives": 0.2561151339056609,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.4928774928774929,
+  "recall": 0.5043731778425656,
+  "precision_including_negatives": 0.2937181663837012,
+  "negative_false_positives": 238,
+  "negative_views_with_any_detection": 120,
+  "negative_fp_per_view": 0.39666666666666667
+ },
+ "cell_derived_val": {
+  "positive_images": 150,
+  "gt_boxes": 1581,
+  "negative_views": 0,
+  "ap50_positives_only": 0.6948407050842659,
+  "ap50_with_negatives": 0.6948407050842659,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.737449118046133,
+  "recall": 0.687539531941809,
+  "precision_including_negatives": 0.737449118046133,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "content_val": {
+  "public": {
+   "n": 13223,
+   "accuracy": 0.9851773425092641,
+   "macro_f1_supported_classes": 0.9806871199533568
+  },
+  "field": {
+   "n": 49,
+   "accuracy": 0.9387755102040817,
+   "macro_f1_supported_classes": 0.6269411339833875
+  }
+ },
+ "deepbee_official_test": {
+  "images": [
+   "DSC_0818.JPG",
+   "DSC_0819.JPG",
+   "DSC_0820.JPG",
+   "DSC_0828.JPG",
+   "DSC_0837.JPG",
+   "DSC_0838.JPG",
+   "DSC_0840.JPG",
+   "DSC_0841.JPG",
+   "DSC_0844.JPG",
+   "DSC_0848.JPG"
+  ],
+  "localization": {
+   "r0.7": {
+    "pred": 17573,
+    "gt": 30133,
+    "tp": 17262,
+    "precision": 0.9823023957207079,
+    "recall": 0.5728603192513192,
+    "f1": 0.7236825556533769
+   },
+   "r1.0": {
+    "pred": 17573,
+    "gt": 30133,
+    "tp": 17334,
+    "precision": 0.986399590280544,
+    "recall": 0.5752497262137856,
+    "f1": 0.7267010438938498
+   }
+  },
+  "oracle_classification": {
+   "accuracy": 0.8763150034845518,
+   "n": 30133,
+   "per_class_recall": {
+    "capped": 0.9984561403508772,
+    "eggs": 0.9236180904522613,
+    "honey": 0.928125,
+    "larva": 0.819327731092437,
+    "nectar": 0.8528428093645485,
+    "pollen": 0.9488870568837593,
+    "other": 0.8131637995512341
+   }
+  }
+ },
+ "latency_ms_batch1": {
+  "bee": 22.18,
+  "cell": 21.34,
+  "queen": 21.91,
+  "content": 17.57
+ }
+}

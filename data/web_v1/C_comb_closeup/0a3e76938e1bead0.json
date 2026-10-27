@@ -1,0 +1,71 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     381.3,
+     914.0
+    ],
+    [
+     616.2,
+     914.0
+    ],
+    [
+     616.2,
+     1116.7
+    ],
+    [
+     381.3,
+     1116.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.76",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1312.0,
+     929.1
+    ],
+    [
+     1491.6,
+     929.1
+    ],
+    [
+     1491.6,
+     1105.4
+    ],
+    [
+     1312.0,
+     1105.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.55",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "0a3e76938e1bead0.jpg",
+ "imageData": null,
+ "imageHeight": 1440,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:20140910-ARS-LSC-00187_(15083614928).jpg",
+ "license": "Public domain",
+ "author": "U.S. Department of Agriculture",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

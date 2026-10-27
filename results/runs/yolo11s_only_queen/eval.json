@@ -1,0 +1,56 @@
+{
+ "family": "yolo11s",
+ "tasks": [
+  "queen"
+ ],
+ "parameters": {
+  "total": 9428179,
+  "backbone": 5441984,
+  "branch_queen": 3986195
+ },
+ "queen_val": {
+  "positive_images": 176,
+  "gt_boxes": 355,
+  "negative_views": 152,
+  "ap50_positives_only": 0.8065904773901125,
+  "ap50_with_negatives": 0.801751616698284,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.7559681697612732,
+  "recall": 0.8028169014084507,
+  "precision_including_negatives": 0.75,
+  "negative_false_positives": 3,
+  "negative_views_with_any_detection": 2,
+  "negative_fp_per_view": 0.019736842105263157
+ },
+ "queen_test": {
+  "positive_images": 98,
+  "gt_boxes": 205,
+  "negative_views": 0,
+  "ap50_positives_only": 0.7887727388944965,
+  "ap50_with_negatives": 0.7887727388944965,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.6916666666666667,
+  "recall": 0.8097560975609757,
+  "precision_including_negatives": 0.6916666666666667,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "queen_external": {
+  "positive_images": 152,
+  "gt_boxes": 343,
+  "negative_views": 600,
+  "ap50_positives_only": 0.34386670429797006,
+  "ap50_with_negatives": 0.23163031015164995,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.6779661016949152,
+  "recall": 0.3498542274052478,
+  "precision_including_negatives": 0.29850746268656714,
+  "negative_false_positives": 225,
+  "negative_views_with_any_detection": 139,
+  "negative_fp_per_view": 0.375
+ },
+ "latency_ms_batch1": {
+  "queen": 8.65
+ }
+}

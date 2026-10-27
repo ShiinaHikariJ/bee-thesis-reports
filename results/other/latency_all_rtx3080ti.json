@@ -1,0 +1,68 @@
+{
+ "dinov2s_joint": {
+  "bee": 28.0,
+  "cell": 18.84,
+  "queen": 27.98,
+  "content": 14.38
+ },
+ "dinov3s_joint": {
+  "bee": 21.08,
+  "cell": 21.42,
+  "queen": 21.04,
+  "content": 17.2
+ },
+ "dinov3s_joint_all": {
+  "bee": 37.9,
+  "cell": 37.8,
+  "queen": 38.14,
+  "content": 33.74
+ },
+ "dinov3s_joint_detail": {
+  "bee": 24.89,
+  "cell": 24.14,
+  "queen": 23.93,
+  "content": 20.22
+ },
+ "dinov3s_joint_lora": {
+  "bee": 34.64,
+  "cell": 34.66,
+  "queen": 34.47,
+  "content": 30.84
+ },
+ "dinov3s_joint_uw": {
+  "bee": 20.96,
+  "cell": 21.03,
+  "queen": 21.29,
+  "content": 17.17
+ },
+ "resnet50_joint": {
+  "bee": 10.75,
+  "cell": 10.84,
+  "queen": 10.85,
+  "content": 6.65
+ },
+ "yolo11s_joint": {
+  "bee": 9.96,
+  "cell": 10.12,
+  "queen": 9.89,
+  "content": 6.0
+ },
+ "yolo26s_joint": {
+  "bee": 13.77,
+  "cell": 14.04,
+  "queen": 13.77,
+  "content": 5.94
+ },
+ "yolov5s_joint": {
+  "bee": 8.98,
+  "cell": 9.04,
+  "queen": 8.94,
+  "content": 4.95
+ },
+ "yolov8s_joint": {
+  "bee": 8.51,
+  "cell": 8.62,
+  "queen": 8.45,
+  "content": 4.42
+ }
+}

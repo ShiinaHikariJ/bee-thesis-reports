@@ -1,0 +1,45 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     612.1,
+     373.9
+    ],
+    [
+     807.6,
+     373.9
+    ],
+    [
+     807.6,
+     483.8
+    ],
+    [
+     612.1,
+     483.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.51",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "35704951c160b15b.jpg",
+ "imageData": null,
+ "imageHeight": 1440,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Bee_was_born._Photo_3.jpg",
+ "license": "CC BY 4.0",
+ "author": "Olesia32",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

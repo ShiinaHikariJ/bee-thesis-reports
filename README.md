@@ -2,7 +2,7 @@
 
 2026-10-21
 
-> 其他页面：[课题总进度与待办](progress.md) · [数据集介绍与样例](datasets.md)
+> 其他页面：[课题总进度与待办](progress.md) · [数据集介绍与样例](datasets.md) · [全部实验结果](results/README.md) · [公开数据](data/README.md)
 
 ## 一、实验目的与设置
 

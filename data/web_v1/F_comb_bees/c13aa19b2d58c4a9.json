@@ -1,0 +1,123 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     1475.0,
+     850.3
+    ],
+    [
+     1521.1,
+     850.3
+    ],
+    [
+     1521.1,
+     971.4
+    ],
+    [
+     1475.0,
+     971.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     836.7,
+     957.5
+    ],
+    [
+     891.6,
+     957.5
+    ],
+    [
+     891.6,
+     1045.6
+    ],
+    [
+     836.7,
+     1045.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1620.4,
+     495.9
+    ],
+    [
+     1669.8,
+     495.9
+    ],
+    [
+     1669.8,
+     588.6
+    ],
+    [
+     1620.4,
+     588.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.30",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     283.7,
+     654.7
+    ],
+    [
+     434.5,
+     654.7
+    ],
+    [
+     434.5,
+     852.7
+    ],
+    [
+     283.7,
+     852.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.57",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "c13aa19b2d58c4a9.jpg",
+ "imageData": null,
+ "imageHeight": 1112,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Honeycombs_in_a_bee_gum.jpg",
+ "license": "CC BY-SA 4.0",
+ "author": "Édouard Hue",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

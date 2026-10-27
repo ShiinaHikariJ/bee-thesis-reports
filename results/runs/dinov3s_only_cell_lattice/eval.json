@@ -1,0 +1,61 @@
+{
+ "family": "dinov3s",
+ "tasks": [
+  "cell"
+ ],
+ "improve": [],
+ "parameters": {
+  "total": 27798227,
+  "backbone": 23812032,
+  "branch_cell": 3986195
+ },
+ "cell_derived_val": {
+  "positive_images": 150,
+  "gt_boxes": 1581,
+  "negative_views": 0,
+  "ap50_positives_only": 0.6557869447641134,
+  "ap50_with_negatives": 0.6557869447641134,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.5904088050314465,
+  "recall": 0.9500316255534472,
+  "precision_including_negatives": 0.5904088050314465,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "deepbee_official_test": {
+  "images": [
+   "DSC_0818.JPG",
+   "DSC_0819.JPG",
+   "DSC_0820.JPG",
+   "DSC_0828.JPG",
+   "DSC_0837.JPG",
+   "DSC_0838.JPG",
+   "DSC_0840.JPG",
+   "DSC_0841.JPG",
+   "DSC_0844.JPG",
+   "DSC_0848.JPG"
+  ],
+  "localization": {
+   "r0.7": {
+    "pred": 27550,
+    "gt": 30133,
+    "tp": 26561,
+    "precision": 0.9641016333938294,
+    "recall": 0.881458865695417,
+    "f1": 0.9209299100254841
+   },
+   "r1.0": {
+    "pred": 27550,
+    "gt": 30133,
+    "tp": 26791,
+    "precision": 0.9724500907441016,
+    "recall": 0.8890916934921846,
+    "f1": 0.9289045299308288
+   }
+  }
+ },
+ "latency_ms_batch1": {
+  "cell": 21.77
+ }
+}

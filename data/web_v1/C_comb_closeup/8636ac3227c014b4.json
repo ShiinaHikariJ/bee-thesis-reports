@@ -1,0 +1,149 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     324.7,
+     1794.3
+    ],
+    [
+     1101.7,
+     1794.3
+    ],
+    [
+     1101.7,
+     2876.0
+    ],
+    [
+     324.7,
+     2876.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.71",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1540.8,
+     0.0
+    ],
+    [
+     1920.0,
+     0.0
+    ],
+    [
+     1920.0,
+     681.4
+    ],
+    [
+     1540.8,
+     681.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.65",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     40.8,
+     2.0
+    ],
+    [
+     1018.2,
+     2.0
+    ],
+    [
+     1018.2,
+     1026.0
+    ],
+    [
+     40.8,
+     1026.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     0.0,
+     623.8
+    ],
+    [
+     1136.7,
+     623.8
+    ],
+    [
+     1136.7,
+     1815.5
+    ],
+    [
+     0.0,
+     1815.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     427.1,
+     779.0
+    ],
+    [
+     1491.2,
+     779.0
+    ],
+    [
+     1491.2,
+     1600.0
+    ],
+    [
+     427.1,
+     1600.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "8636ac3227c014b4.jpg",
+ "imageData": null,
+ "imageHeight": 2880,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_carnica_worker_honeycomb_3.jpg",
+ "license": "CC BY-SA 2.5",
+ "author": "Richard Bartz, Munich Makro Freak &amp; Beemaster Hubert Seibring, Munich which gave me advice and a protection suite ;) My dog cashed 6 bee-sticks on the nose, i cashed 4.",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

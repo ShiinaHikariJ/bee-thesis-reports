@@ -1,0 +1,45 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     735.9,
+     264.7
+    ],
+    [
+     1071.2,
+     264.7
+    ],
+    [
+     1071.2,
+     843.7
+    ],
+    [
+     735.9,
+     843.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.90",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "3ec541b73995c19a.jpg",
+ "imageData": null,
+ "imageHeight": 1291,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Schwarmzelle_mit_Deckel_(5853047332).jpg",
+ "license": "CC BY 2.0",
+ "author": "Maja Dumat from Deutschland (Germany)",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes only; cell pre-labels removed"
+}

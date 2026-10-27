@@ -1,0 +1,18 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [],
+ "imagePath": "2bbe47bedb50c14f.jpg",
+ "imageData": null,
+ "imageHeight": 2056,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Beekeeper_with_moveable_comb_hive.jpg",
+ "license": "CC BY-SA 4.0",
+ "author": "Ich",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

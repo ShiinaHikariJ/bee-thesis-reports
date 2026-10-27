@@ -1,0 +1,149 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     1451.9,
+     377.0
+    ],
+    [
+     1564.4,
+     377.0
+    ],
+    [
+     1564.4,
+     505.8
+    ],
+    [
+     1451.9,
+     505.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.85",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1101.5,
+     96.8
+    ],
+    [
+     1248.7,
+     96.8
+    ],
+    [
+     1248.7,
+     201.1
+    ],
+    [
+     1101.5,
+     201.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.83",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1363.0,
+     0.0
+    ],
+    [
+     1462.9,
+     0.0
+    ],
+    [
+     1462.9,
+     79.7
+    ],
+    [
+     1363.0,
+     79.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.81",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     376.2,
+     694.6
+    ],
+    [
+     456.9,
+     694.6
+    ],
+    [
+     456.9,
+     817.6
+    ],
+    [
+     376.2,
+     817.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.79",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1255.2,
+     61.7
+    ],
+    [
+     1391.6,
+     61.7
+    ],
+    [
+     1391.6,
+     120.6
+    ],
+    [
+     1255.2,
+     120.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.79",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "d4fcd632e9f064a0.jpg",
+ "imageData": null,
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Bee_pollen_cells.jpg",
+ "license": "CC BY-SA 4.0",
+ "author": "John Pons",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

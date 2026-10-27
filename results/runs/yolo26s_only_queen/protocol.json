@@ -1,0 +1,25 @@
+{
+  "family": "yolo26s",
+  "tasks": [
+    "queen"
+  ],
+  "steps": 6000,
+  "batch": {
+    "queen": 8
+  },
+  "lr": 0.001,
+  "backbone_lr": 0.0001,
+  "optimizer": "AdamW wd 5e-4",
+  "warmup_steps": 500,
+  "schedule": "linear warmup then cosine to 5%",
+  "amp": "fp16 autocast",
+  "loss_weights": "equal (1.0 each)",
+  "e2e_decay_segments": 20,
+  "seed": 20261021,
+  "parameters": {
+    "total": 9948638,
+    "backbone": 5441984,
+    "branch_queen": 4506654
+  },
+  "checkpoint_selection": "final step; no validation-based selection"
+}

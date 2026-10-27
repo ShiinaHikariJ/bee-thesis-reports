@@ -1,0 +1,54 @@
+{
+ "family": "dinov3s",
+ "tasks": [
+  "content"
+ ],
+ "improve": [],
+ "parameters": {
+  "total": 24487624,
+  "backbone": 23812032,
+  "content_head": 675592
+ },
+ "content_val": {
+  "public": {
+   "n": 13223,
+   "accuracy": 0.991151780987673,
+   "macro_f1_supported_classes": 0.9895053438856741
+  },
+  "field": {
+   "n": 49,
+   "accuracy": 0.9591836734693877,
+   "macro_f1_supported_classes": 0.6447971781305114
+  }
+ },
+ "deepbee_official_test": {
+  "images": [
+   "DSC_0818.JPG",
+   "DSC_0819.JPG",
+   "DSC_0820.JPG",
+   "DSC_0828.JPG",
+   "DSC_0837.JPG",
+   "DSC_0838.JPG",
+   "DSC_0840.JPG",
+   "DSC_0841.JPG",
+   "DSC_0844.JPG",
+   "DSC_0848.JPG"
+  ],
+  "oracle_classification": {
+   "accuracy": 0.9080078319450436,
+   "n": 30133,
+   "per_class_recall": {
+    "capped": 0.9983157894736842,
+    "eggs": 0.888107202680067,
+    "honey": 0.959375,
+    "larva": 0.8518354710305175,
+    "nectar": 0.8595317725752508,
+    "pollen": 0.9530090684253916,
+    "other": 0.8801795063575168
+   }
+  }
+ },
+ "latency_ms_batch1": {
+  "content": 9.22
+ }
+}

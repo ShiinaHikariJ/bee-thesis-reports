@@ -1,0 +1,71 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     1437.1,
+     2218.1
+    ],
+    [
+     1771.7,
+     2218.1
+    ],
+    [
+     1771.7,
+     2566.1
+    ],
+    [
+     1437.1,
+     2566.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.89",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1690.5,
+     2700.9
+    ],
+    [
+     1919.2,
+     2700.9
+    ],
+    [
+     1919.2,
+     2875.5
+    ],
+    [
+     1690.5,
+     2875.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.58",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "8944e689deffa9a5.jpg",
+ "imageData": null,
+ "imageHeight": 2880,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Newlands_bees_019.JPG",
+ "license": "CC BY-SA 3.0",
+ "author": "Discott",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

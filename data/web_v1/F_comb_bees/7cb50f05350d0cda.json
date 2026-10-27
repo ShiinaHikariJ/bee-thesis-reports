@@ -1,0 +1,175 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     902.0,
+     1274.9
+    ],
+    [
+     947.9,
+     1274.9
+    ],
+    [
+     947.9,
+     1355.5
+    ],
+    [
+     902.0,
+     1355.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1643.0,
+     913.4
+    ],
+    [
+     1725.4,
+     913.4
+    ],
+    [
+     1725.4,
+     1022.6
+    ],
+    [
+     1643.0,
+     1022.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1472.0,
+     447.7
+    ],
+    [
+     1507.6,
+     447.7
+    ],
+    [
+     1507.6,
+     505.0
+    ],
+    [
+     1472.0,
+     505.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     785.7,
+     1249.4
+    ],
+    [
+     817.7,
+     1249.4
+    ],
+    [
+     817.7,
+     1327.2
+    ],
+    [
+     785.7,
+     1327.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     411.0,
+     760.6
+    ],
+    [
+     431.1,
+     760.6
+    ],
+    [
+     431.1,
+     820.9
+    ],
+    [
+     411.0,
+     820.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     662.1,
+     248.9
+    ],
+    [
+     712.4,
+     248.9
+    ],
+    [
+     712.4,
+     297.1
+    ],
+    [
+     662.1,
+     297.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.30",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "7cb50f05350d0cda.jpg",
+ "imageData": null,
+ "imageHeight": 1440,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Abeilles_et_ruches_09.JPG",
+ "license": "CC BY-SA 3.0",
+ "author": "Onésime",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

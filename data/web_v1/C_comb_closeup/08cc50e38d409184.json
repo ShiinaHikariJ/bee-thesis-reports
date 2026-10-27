@@ -1,0 +1,71 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     506.7,
+     278.7
+    ],
+    [
+     687.3,
+     278.7
+    ],
+    [
+     687.3,
+     406.7
+    ],
+    [
+     506.7,
+     406.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.88",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     754.4,
+     435.0
+    ],
+    [
+     860.6,
+     435.0
+    ],
+    [
+     860.6,
+     548.0
+    ],
+    [
+     754.4,
+     548.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.52",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "08cc50e38d409184.jpg",
+ "imageData": null,
+ "imageHeight": 680,
+ "imageWidth": 1024,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Bee_bums_(245215927).jpg",
+ "license": "CC BY 2.0",
+ "author": "Peter Shanks from Hobart, Australia",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

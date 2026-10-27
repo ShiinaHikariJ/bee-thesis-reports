@@ -1,0 +1,435 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     1451.4,
+     645.3
+    ],
+    [
+     1680.3,
+     645.3
+    ],
+    [
+     1680.3,
+     842.4
+    ],
+    [
+     1451.4,
+     842.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.90",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1532.8,
+     370.9
+    ],
+    [
+     1789.6,
+     370.9
+    ],
+    [
+     1789.6,
+     548.6
+    ],
+    [
+     1532.8,
+     548.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.89",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1436.4,
+     1019.9
+    ],
+    [
+     1623.2,
+     1019.9
+    ],
+    [
+     1623.2,
+     1262.6
+    ],
+    [
+     1436.4,
+     1262.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.77",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1563.5,
+     1021.3
+    ],
+    [
+     1772.9,
+     1021.3
+    ],
+    [
+     1772.9,
+     1280.0
+    ],
+    [
+     1563.5,
+     1280.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.71",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1080.6,
+     9.7
+    ],
+    [
+     1294.5,
+     9.7
+    ],
+    [
+     1294.5,
+     256.9
+    ],
+    [
+     1080.6,
+     256.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.70",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     6.9,
+     846.4
+    ],
+    [
+     182.0,
+     846.4
+    ],
+    [
+     182.0,
+     1139.2
+    ],
+    [
+     6.9,
+     1139.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     725.8,
+     1015.0
+    ],
+    [
+     843.4,
+     1015.0
+    ],
+    [
+     843.4,
+     1217.9
+    ],
+    [
+     725.8,
+     1217.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1671.3,
+     715.3
+    ],
+    [
+     1912.0,
+     715.3
+    ],
+    [
+     1912.0,
+     1139.0
+    ],
+    [
+     1671.3,
+     1139.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.57",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1777.2,
+     591.1
+    ],
+    [
+     1919.6,
+     591.1
+    ],
+    [
+     1919.6,
+     737.1
+    ],
+    [
+     1777.2,
+     737.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.55",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1720.4,
+     1103.3
+    ],
+    [
+     1918.5,
+     1103.3
+    ],
+    [
+     1918.5,
+     1278.7
+    ],
+    [
+     1720.4,
+     1278.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.48",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     945.3,
+     322.2
+    ],
+    [
+     1084.4,
+     322.2
+    ],
+    [
+     1084.4,
+     492.6
+    ],
+    [
+     945.3,
+     492.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1456.1,
+     0.6
+    ],
+    [
+     1903.6,
+     0.6
+    ],
+    [
+     1903.6,
+     210.7
+    ],
+    [
+     1456.1,
+     210.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.45",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     122.2,
+     964.8
+    ],
+    [
+     499.4,
+     964.8
+    ],
+    [
+     499.4,
+     1280.0
+    ],
+    [
+     122.2,
+     1280.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     649.9,
+     499.3
+    ],
+    [
+     923.2,
+     499.3
+    ],
+    [
+     923.2,
+     589.6
+    ],
+    [
+     649.9,
+     589.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1506.6,
+     1017.4
+    ],
+    [
+     1622.7,
+     1017.4
+    ],
+    [
+     1622.7,
+     1250.0
+    ],
+    [
+     1506.6,
+     1250.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1347.9,
+     1101.5
+    ],
+    [
+     1522.3,
+     1101.5
+    ],
+    [
+     1522.3,
+     1280.0
+    ],
+    [
+     1347.9,
+     1280.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.32",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "f89d5356115ba295.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Giant_honey_bees_and_Honeycomb_09.jpg",
+ "license": "CC BY-SA 4.0",
+ "author": "Pinakpani",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

@@ -1,0 +1,97 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     527.2,
+     1002.6
+    ],
+    [
+     558.2,
+     1002.6
+    ],
+    [
+     558.2,
+     1022.5
+    ],
+    [
+     527.2,
+     1022.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.37",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     580.9,
+     991.7
+    ],
+    [
+     608.7,
+     991.7
+    ],
+    [
+     608.7,
+     1017.4
+    ],
+    [
+     580.9,
+     1017.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.34",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     529.6,
+     929.4
+    ],
+    [
+     555.3,
+     929.4
+    ],
+    [
+     555.3,
+     947.7
+    ],
+    [
+     529.6,
+     947.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "48dae30338e25719.jpg",
+ "imageData": null,
+ "imageHeight": 1024,
+ "imageWidth": 768,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://www.inaturalist.org/observations/324669482",
+ "license": "cc-by",
+ "author": "(c) Natasha Taylor, some rights reserved (CC BY)",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

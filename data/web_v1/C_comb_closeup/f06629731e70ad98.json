@@ -1,0 +1,175 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     639.5,
+     216.7
+    ],
+    [
+     985.4,
+     216.7
+    ],
+    [
+     985.4,
+     522.3
+    ],
+    [
+     639.5,
+     522.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.90",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     306.7,
+     640.2
+    ],
+    [
+     667.0,
+     640.2
+    ],
+    [
+     667.0,
+     1021.1
+    ],
+    [
+     306.7,
+     1021.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.88",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     611.0,
+     585.4
+    ],
+    [
+     984.3,
+     585.4
+    ],
+    [
+     984.3,
+     837.0
+    ],
+    [
+     611.0,
+     837.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.87",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     302.2,
+     427.6
+    ],
+    [
+     655.2,
+     427.6
+    ],
+    [
+     655.2,
+     654.2
+    ],
+    [
+     302.2,
+     654.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.87",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     325.2,
+     19.5
+    ],
+    [
+     718.7,
+     19.5
+    ],
+    [
+     718.7,
+     327.5
+    ],
+    [
+     325.2,
+     327.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.86",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     34.5,
+     523.6
+    ],
+    [
+     317.1,
+     523.6
+    ],
+    [
+     317.1,
+     842.6
+    ],
+    [
+     34.5,
+     842.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.85",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "f06629731e70ad98.jpg",
+ "imageData": null,
+ "imageHeight": 1440,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Bienenwabe_mit_Eiern_und_Brut_5.jpg",
+ "license": "CC BY-SA 3.0",
+ "author": "Waugsberg (talk · contribs)",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

@@ -2,7 +2,7 @@
 
 更新：2026-10-27
 
-[← 返回实验汇报](README.md) · [数据集介绍](datasets.md)
+[← 返回实验汇报](README.md) · [数据集介绍](datasets.md) · [全部实验结果](results/README.md) · [公开数据](data/README.md)
 
 ## 一、一句话现状
 

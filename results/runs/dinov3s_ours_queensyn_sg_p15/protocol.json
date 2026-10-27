@@ -1,0 +1,51 @@
+{
+  "family": "dinov3s",
+  "tasks": [
+    "bee",
+    "cell",
+    "queen",
+    "content"
+  ],
+  "steps": 6000,
+  "batch": {
+    "bee": 8,
+    "cell": 16,
+    "queen": 8,
+    "content": 64
+  },
+  "lr": 0.001,
+  "backbone_lr": 0.0001,
+  "optimizer": "AdamW wd 5e-4",
+  "warmup_steps": 500,
+  "schedule": "linear warmup then cosine to 5%",
+  "amp": "fp16 autocast",
+  "loss_weights": "uncertainty weighting (learned)",
+  "e2e_decay_segments": 20,
+  "seed": 20261021,
+  "parameters": {
+    "total": 36446213,
+    "backbone": 23812032,
+    "branch_bee": 3986195,
+    "branch_cell": 3986195,
+    "branch_queen": 3986195,
+    "content_head": 675592
+  },
+  "checkpoint_selection": "final step; no validation-based selection",
+  "backward": "per task (gradients accumulate)",
+  "improve": [
+    "uw"
+  ],
+  "bee_extra": {
+    "dirs": [
+      "synth_bee_v1"
+    ],
+    "p": 0.5,
+    "real_only_last": 0.0
+  },
+  "queen_extra": {
+    "dir": "synth_queen_v1",
+    "p": 0.15,
+    "stopgrad": true
+  },
+  "cell_labels": "DeepBee-derived + completed (cell_lattice_train.json)"
+}

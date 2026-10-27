@@ -1,0 +1,149 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     102.6,
+     325.2
+    ],
+    [
+     140.0,
+     325.2
+    ],
+    [
+     140.0,
+     375.3
+    ],
+    [
+     102.6,
+     375.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.63",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     372.9,
+     307.6
+    ],
+    [
+     438.4,
+     307.6
+    ],
+    [
+     438.4,
+     336.2
+    ],
+    [
+     372.9,
+     336.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1173.5,
+     1011.9
+    ],
+    [
+     1209.8,
+     1011.9
+    ],
+    [
+     1209.8,
+     1092.8
+    ],
+    [
+     1173.5,
+     1092.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     661.6,
+     974.8
+    ],
+    [
+     691.0,
+     974.8
+    ],
+    [
+     691.0,
+     1035.1
+    ],
+    [
+     661.6,
+     1035.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.32",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     572.2,
+     1161.8
+    ],
+    [
+     599.4,
+     1161.8
+    ],
+    [
+     599.4,
+     1228.8
+    ],
+    [
+     572.2,
+     1228.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.30",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "b32d1d40563274bb.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Close-up_of_a_beehive_frame_with_honey_and_bees_(48461522792).jpg",
+ "license": "CC BY 2.0",
+ "author": "Ivan Radic",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

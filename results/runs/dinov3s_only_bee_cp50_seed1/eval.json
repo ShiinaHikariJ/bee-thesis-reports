@@ -1,0 +1,43 @@
+{
+ "family": "dinov3s",
+ "tasks": [
+  "bee"
+ ],
+ "improve": [],
+ "parameters": {
+  "total": 27798227,
+  "backbone": 23812032,
+  "branch_bee": 3986195
+ },
+ "bee_public_val": {
+  "positive_images": 156,
+  "gt_boxes": 1809,
+  "negative_views": 0,
+  "ap50_positives_only": 0.7612230442118534,
+  "ap50_with_negatives": 0.7612230442118534,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.878129117259552,
+  "recall": 0.7368711995577667,
+  "precision_including_negatives": 0.878129117259552,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "bee_external_hivemind": {
+  "positive_images": 199,
+  "gt_boxes": 5134,
+  "negative_views": 0,
+  "ap50_positives_only": 0.6086839715027598,
+  "ap50_with_negatives": 0.6086839715027598,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.5535762483130904,
+  "recall": 0.7989871445266848,
+  "precision_including_negatives": 0.5535762483130904,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "latency_ms_batch1": {
+  "bee": 46.79
+ }
+}

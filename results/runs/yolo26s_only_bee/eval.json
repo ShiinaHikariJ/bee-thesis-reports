@@ -1,0 +1,42 @@
+{
+ "family": "yolo26s",
+ "tasks": [
+  "bee"
+ ],
+ "parameters": {
+  "total": 9948638,
+  "backbone": 5441984,
+  "branch_bee": 4506654
+ },
+ "bee_public_val": {
+  "positive_images": 156,
+  "gt_boxes": 1809,
+  "negative_views": 0,
+  "ap50_positives_only": 0.7689212536494436,
+  "ap50_with_negatives": 0.7689212536494436,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.8929743926460932,
+  "recall": 0.7517965726920951,
+  "precision_including_negatives": 0.8929743926460932,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "bee_external_hivemind": {
+  "positive_images": 199,
+  "gt_boxes": 5134,
+  "negative_views": 0,
+  "ap50_positives_only": 0.5625452273855971,
+  "ap50_with_negatives": 0.5625452273855971,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.4870872414236156,
+  "recall": 0.7384105960264901,
+  "precision_including_negatives": 0.4870872414236156,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "latency_ms_batch1": {
+  "bee": 12.4
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     341.1,
+     504.7
+    ],
+    [
+     365.4,
+     504.7
+    ],
+    [
+     365.4,
+     533.3
+    ],
+    [
+     341.1,
+     533.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.34",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     292.0,
+     458.5
+    ],
+    [
+     320.5,
+     458.5
+    ],
+    [
+     320.5,
+     485.0
+    ],
+    [
+     292.0,
+     485.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.30",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "1d8cdf024f3dcf30.jpg",
+ "imageData": null,
+ "imageHeight": 1024,
+ "imageWidth": 768,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://www.inaturalist.org/observations/324669482",
+ "license": "cc-by",
+ "author": "(c) Natasha Taylor, some rights reserved (CC BY)",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

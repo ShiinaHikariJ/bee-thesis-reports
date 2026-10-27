@@ -1,0 +1,97 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     480.8,
+     0.0
+    ],
+    [
+     1185.6,
+     0.0
+    ],
+    [
+     1185.6,
+     703.3
+    ],
+    [
+     480.8,
+     703.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.90",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     973.7,
+     430.0
+    ],
+    [
+     1772.5,
+     430.0
+    ],
+    [
+     1772.5,
+     1204.5
+    ],
+    [
+     973.7,
+     1204.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.86",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "queen_cell",
+   "points": [
+    [
+     239.1,
+     561.6
+    ],
+    [
+     855.4,
+     561.6
+    ],
+    [
+     855.4,
+     1213.3
+    ],
+    [
+     239.1,
+     1213.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.66",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "b2ba39b0c31730d0.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Weiselzellen_67a.jpg",
+ "license": "CC BY-SA 3.0",
+ "author": "Waugsberg",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes only; cell pre-labels removed"
+}

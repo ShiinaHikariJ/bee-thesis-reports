@@ -1,0 +1,18 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [],
+ "imagePath": "5d06b67457855d05.jpg",
+ "imageData": null,
+ "imageHeight": 1286,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_6586_A_frame_from_a_beehive_at_a_cherry_farm_near_Young_New_South_Wales.jpg",
+ "license": "CC BY 3.0",
+ "author": "Nick Pitsas, CSIRO",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

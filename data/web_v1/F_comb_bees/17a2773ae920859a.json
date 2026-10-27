@@ -1,0 +1,71 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     1144.1,
+     552.7
+    ],
+    [
+     1173.3,
+     552.7
+    ],
+    [
+     1173.3,
+     602.1
+    ],
+    [
+     1144.1,
+     602.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1625.4,
+     0.0
+    ],
+    [
+     1690.9,
+     0.0
+    ],
+    [
+     1690.9,
+     41.3
+    ],
+    [
+     1625.4,
+     41.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "17a2773ae920859a.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Frame_of_an_old_beehive_full_of_honey_and_bees._Lots_of_agitated_bees_flying_around_(48502814766).jpg",
+ "license": "CC BY 2.0",
+ "author": "Ivan Radic",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

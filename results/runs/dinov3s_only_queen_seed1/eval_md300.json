@@ -1,0 +1,45 @@
+{
+ "max_det": 300,
+ "queen_val": {
+  "positive_images": 176,
+  "gt_boxes": 355,
+  "negative_views": 152,
+  "ap50_positives_only": 0.8744416939326172,
+  "ap50_with_negatives": 0.8713639036547205,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.8181818181818182,
+  "recall": 0.8619718309859155,
+  "precision_including_negatives": 0.8010471204188482,
+  "negative_false_positives": 8,
+  "negative_views_with_any_detection": 5,
+  "negative_fp_per_view": 0.05263157894736842
+ },
+ "queen_test": {
+  "positive_images": 98,
+  "gt_boxes": 205,
+  "negative_views": 0,
+  "ap50_positives_only": 0.8649012350336805,
+  "ap50_with_negatives": 0.8649012350336805,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.8663366336633663,
+  "recall": 0.8536585365853658,
+  "precision_including_negatives": 0.8663366336633663,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "queen_external": {
+  "positive_images": 152,
+  "gt_boxes": 343,
+  "negative_views": 600,
+  "ap50_positives_only": 0.4424467351280992,
+  "ap50_with_negatives": 0.2842851408608055,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.5617647058823529,
+  "recall": 0.5568513119533528,
+  "precision_including_negatives": 0.28507462686567164,
+  "negative_false_positives": 330,
+  "negative_views_with_any_detection": 169,
+  "negative_fp_per_view": 0.55
+ }
+}

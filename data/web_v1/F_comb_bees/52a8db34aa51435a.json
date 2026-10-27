@@ -1,0 +1,279 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     598.0,
+     972.0
+    ],
+    [
+     636.1,
+     972.0
+    ],
+    [
+     636.1,
+     1036.3
+    ],
+    [
+     598.0,
+     1036.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.51",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     448.8,
+     874.9
+    ],
+    [
+     486.6,
+     874.9
+    ],
+    [
+     486.6,
+     918.5
+    ],
+    [
+     448.8,
+     918.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.48",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1385.9,
+     690.3
+    ],
+    [
+     1408.6,
+     690.3
+    ],
+    [
+     1408.6,
+     730.8
+    ],
+    [
+     1385.9,
+     730.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.43",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1477.8,
+     1001.3
+    ],
+    [
+     1553.2,
+     1001.3
+    ],
+    [
+     1553.2,
+     1035.0
+    ],
+    [
+     1477.8,
+     1035.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     925.0,
+     858.1
+    ],
+    [
+     972.2,
+     858.1
+    ],
+    [
+     972.2,
+     908.9
+    ],
+    [
+     925.0,
+     908.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     421.5,
+     453.7
+    ],
+    [
+     450.4,
+     453.7
+    ],
+    [
+     450.4,
+     498.1
+    ],
+    [
+     421.5,
+     498.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1283.6,
+     993.0
+    ],
+    [
+     1359.4,
+     993.0
+    ],
+    [
+     1359.4,
+     1043.8
+    ],
+    [
+     1283.6,
+     1043.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     741.0,
+     258.9
+    ],
+    [
+     774.5,
+     258.9
+    ],
+    [
+     774.5,
+     311.1
+    ],
+    [
+     741.0,
+     311.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.34",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     728.8,
+     822.7
+    ],
+    [
+     770.5,
+     822.7
+    ],
+    [
+     770.5,
+     853.1
+    ],
+    [
+     728.8,
+     853.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.32",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1490.7,
+     877.9
+    ],
+    [
+     1542.8,
+     877.9
+    ],
+    [
+     1542.8,
+     924.9
+    ],
+    [
+     1490.7,
+     924.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "52a8db34aa51435a.jpg",
+ "imageData": null,
+ "imageHeight": 1080,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Frame_from_hive_of_honey_bee_(apis_mellifera).jpg",
+ "license": "CC BY-SA 4.0",
+ "author": "John Pons",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

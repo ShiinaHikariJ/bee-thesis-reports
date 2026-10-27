@@ -1,0 +1,123 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     1042.0,
+     1122.9
+    ],
+    [
+     1077.2,
+     1122.9
+    ],
+    [
+     1077.2,
+     1161.5
+    ],
+    [
+     1042.0,
+     1161.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.40",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     992.0,
+     913.6
+    ],
+    [
+     1016.0,
+     913.6
+    ],
+    [
+     1016.0,
+     938.9
+    ],
+    [
+     992.0,
+     938.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1042.2,
+     1129.3
+    ],
+    [
+     1075.6,
+     1129.3
+    ],
+    [
+     1075.6,
+     1174.3
+    ],
+    [
+     1042.2,
+     1174.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     621.7,
+     1010.3
+    ],
+    [
+     648.2,
+     1010.3
+    ],
+    [
+     648.2,
+     1029.9
+    ],
+    [
+     621.7,
+     1029.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.34",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "e51566392f88a3a2.jpg",
+ "imageData": null,
+ "imageHeight": 1281,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:20210802-NRCS-CSW-031_(51413349291).jpg",
+ "license": "Public domain",
+ "author": "U.S. Department of Agriculture",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

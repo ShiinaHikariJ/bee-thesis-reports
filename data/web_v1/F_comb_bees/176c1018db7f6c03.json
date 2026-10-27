@@ -1,0 +1,279 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     318.4,
+     900.0
+    ],
+    [
+     352.7,
+     900.0
+    ],
+    [
+     352.7,
+     930.4
+    ],
+    [
+     318.4,
+     930.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     910.7,
+     1003.3
+    ],
+    [
+     943.0,
+     1003.3
+    ],
+    [
+     943.0,
+     1059.1
+    ],
+    [
+     910.7,
+     1059.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     451.9,
+     981.0
+    ],
+    [
+     474.0,
+     981.0
+    ],
+    [
+     474.0,
+     1008.6
+    ],
+    [
+     451.9,
+     1008.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.45",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     858.8,
+     351.8
+    ],
+    [
+     896.9,
+     351.8
+    ],
+    [
+     896.9,
+     382.5
+    ],
+    [
+     858.8,
+     382.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.40",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1101.7,
+     683.5
+    ],
+    [
+     1128.7,
+     683.5
+    ],
+    [
+     1128.7,
+     733.3
+    ],
+    [
+     1101.7,
+     733.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.37",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1109.0,
+     595.1
+    ],
+    [
+     1131.4,
+     595.1
+    ],
+    [
+     1131.4,
+     648.5
+    ],
+    [
+     1109.0,
+     648.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.37",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     620.9,
+     398.0
+    ],
+    [
+     646.4,
+     398.0
+    ],
+    [
+     646.4,
+     427.5
+    ],
+    [
+     620.9,
+     427.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1167.4,
+     1250.7
+    ],
+    [
+     1212.9,
+     1250.7
+    ],
+    [
+     1212.9,
+     1276.1
+    ],
+    [
+     1167.4,
+     1276.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     408.8,
+     222.4
+    ],
+    [
+     431.6,
+     222.4
+    ],
+    [
+     431.6,
+     262.8
+    ],
+    [
+     408.8,
+     262.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     816.3,
+     280.4
+    ],
+    [
+     838.7,
+     280.4
+    ],
+    [
+     838.7,
+     324.7
+    ],
+    [
+     816.3,
+     324.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "176c1018db7f6c03.jpg",
+ "imageData": null,
+ "imageHeight": 1281,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Pollinators_(20210802-NRCS-CSW-038).jpg",
+ "license": "Public domain",
+ "author": "USDAgov",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

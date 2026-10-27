@@ -1,0 +1,4413 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     20.9,
+     367.5
+    ],
+    [
+     136.6,
+     367.5
+    ],
+    [
+     136.6,
+     512.9
+    ],
+    [
+     20.9,
+     512.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.83",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     576.7,
+     100.3
+    ],
+    [
+     646.3,
+     100.3
+    ],
+    [
+     646.3,
+     252.2
+    ],
+    [
+     576.7,
+     252.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.82",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     4.2,
+     994.0
+    ],
+    [
+     136.9,
+     994.0
+    ],
+    [
+     136.9,
+     1104.4
+    ],
+    [
+     4.2,
+     1104.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.79",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     548.5,
+     733.0
+    ],
+    [
+     620.9,
+     733.0
+    ],
+    [
+     620.9,
+     846.8
+    ],
+    [
+     548.5,
+     846.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.77",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     76.9,
+     627.3
+    ],
+    [
+     216.6,
+     627.3
+    ],
+    [
+     216.6,
+     725.4
+    ],
+    [
+     76.9,
+     725.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.76",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     880.0,
+     288.4
+    ],
+    [
+     951.2,
+     288.4
+    ],
+    [
+     951.2,
+     397.6
+    ],
+    [
+     880.0,
+     397.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.75",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     190.8,
+     984.5
+    ],
+    [
+     322.3,
+     984.5
+    ],
+    [
+     322.3,
+     1057.4
+    ],
+    [
+     190.8,
+     1057.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.75",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     507.4,
+     1024.0
+    ],
+    [
+     614.8,
+     1024.0
+    ],
+    [
+     614.8,
+     1112.6
+    ],
+    [
+     507.4,
+     1112.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.74",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     513.5,
+     128.2
+    ],
+    [
+     572.9,
+     128.2
+    ],
+    [
+     572.9,
+     271.5
+    ],
+    [
+     513.5,
+     271.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.74",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     268.9,
+     601.4
+    ],
+    [
+     334.4,
+     601.4
+    ],
+    [
+     334.4,
+     758.3
+    ],
+    [
+     268.9,
+     758.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.73",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1063.2,
+     562.9
+    ],
+    [
+     1139.1,
+     562.9
+    ],
+    [
+     1139.1,
+     673.1
+    ],
+    [
+     1063.2,
+     673.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.73",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1202.2,
+     277.2
+    ],
+    [
+     1282.0,
+     277.2
+    ],
+    [
+     1282.0,
+     400.3
+    ],
+    [
+     1202.2,
+     400.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.72",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1157.1,
+     374.9
+    ],
+    [
+     1231.9,
+     374.9
+    ],
+    [
+     1231.9,
+     471.7
+    ],
+    [
+     1157.1,
+     471.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.71",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     557.3,
+     289.6
+    ],
+    [
+     610.1,
+     289.6
+    ],
+    [
+     610.1,
+     433.2
+    ],
+    [
+     557.3,
+     433.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.71",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     341.7,
+     524.6
+    ],
+    [
+     393.2,
+     524.6
+    ],
+    [
+     393.2,
+     686.8
+    ],
+    [
+     341.7,
+     686.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.71",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     13.3,
+     737.9
+    ],
+    [
+     157.5,
+     737.9
+    ],
+    [
+     157.5,
+     858.5
+    ],
+    [
+     13.3,
+     858.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.70",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     679.3,
+     586.5
+    ],
+    [
+     793.1,
+     586.5
+    ],
+    [
+     793.1,
+     669.1
+    ],
+    [
+     679.3,
+     669.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.70",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     849.7,
+     74.7
+    ],
+    [
+     911.0,
+     74.7
+    ],
+    [
+     911.0,
+     198.9
+    ],
+    [
+     849.7,
+     198.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.69",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     653.7,
+     800.3
+    ],
+    [
+     719.9,
+     800.3
+    ],
+    [
+     719.9,
+     937.1
+    ],
+    [
+     653.7,
+     937.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.69",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     356.6,
+     722.1
+    ],
+    [
+     460.2,
+     722.1
+    ],
+    [
+     460.2,
+     850.9
+    ],
+    [
+     356.6,
+     850.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.68",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     77.0,
+     814.9
+    ],
+    [
+     212.0,
+     814.9
+    ],
+    [
+     212.0,
+     907.4
+    ],
+    [
+     77.0,
+     907.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.68",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     279.2,
+     1141.4
+    ],
+    [
+     370.8,
+     1141.4
+    ],
+    [
+     370.8,
+     1268.0
+    ],
+    [
+     279.2,
+     1268.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.68",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     480.1,
+     861.5
+    ],
+    [
+     580.1,
+     861.5
+    ],
+    [
+     580.1,
+     961.5
+    ],
+    [
+     480.1,
+     961.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.67",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     209.3,
+     752.0
+    ],
+    [
+     296.7,
+     752.0
+    ],
+    [
+     296.7,
+     895.1
+    ],
+    [
+     209.3,
+     895.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.67",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     353.3,
+     996.9
+    ],
+    [
+     434.1,
+     996.9
+    ],
+    [
+     434.1,
+     1105.7
+    ],
+    [
+     353.3,
+     1105.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.67",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     888.3,
+     123.4
+    ],
+    [
+     957.9,
+     123.4
+    ],
+    [
+     957.9,
+     279.7
+    ],
+    [
+     888.3,
+     279.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.67",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     812.8,
+     273.2
+    ],
+    [
+     868.4,
+     273.2
+    ],
+    [
+     868.4,
+     416.4
+    ],
+    [
+     812.8,
+     416.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.67",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     720.2,
+     266.9
+    ],
+    [
+     777.6,
+     266.9
+    ],
+    [
+     777.6,
+     431.7
+    ],
+    [
+     720.2,
+     431.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.66",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     194.9,
+     372.0
+    ],
+    [
+     312.3,
+     372.0
+    ],
+    [
+     312.3,
+     483.0
+    ],
+    [
+     194.9,
+     483.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.66",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     0.0,
+     431.1
+    ],
+    [
+     58.3,
+     431.1
+    ],
+    [
+     58.3,
+     586.6
+    ],
+    [
+     0.0,
+     586.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.66",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     535.2,
+     10.5
+    ],
+    [
+     584.3,
+     10.5
+    ],
+    [
+     584.3,
+     70.2
+    ],
+    [
+     535.2,
+     70.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.66",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     866.0,
+     456.9
+    ],
+    [
+     924.8,
+     456.9
+    ],
+    [
+     924.8,
+     590.1
+    ],
+    [
+     866.0,
+     590.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.65",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     446.1,
+     979.6
+    ],
+    [
+     558.8,
+     979.6
+    ],
+    [
+     558.8,
+     1041.5
+    ],
+    [
+     446.1,
+     1041.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.65",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     629.7,
+     1217.7
+    ],
+    [
+     722.9,
+     1217.7
+    ],
+    [
+     722.9,
+     1292.0
+    ],
+    [
+     629.7,
+     1292.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1469.5,
+     336.5
+    ],
+    [
+     1536.6,
+     336.5
+    ],
+    [
+     1536.6,
+     438.6
+    ],
+    [
+     1469.5,
+     438.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1470.2,
+     175.3
+    ],
+    [
+     1540.9,
+     175.3
+    ],
+    [
+     1540.9,
+     297.3
+    ],
+    [
+     1470.2,
+     297.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1091.3,
+     1042.6
+    ],
+    [
+     1165.0,
+     1042.6
+    ],
+    [
+     1165.0,
+     1096.6
+    ],
+    [
+     1091.3,
+     1096.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     532.8,
+     630.4
+    ],
+    [
+     581.8,
+     630.4
+    ],
+    [
+     581.8,
+     758.1
+    ],
+    [
+     532.8,
+     758.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     744.1,
+     926.1
+    ],
+    [
+     790.2,
+     926.1
+    ],
+    [
+     790.2,
+     1027.7
+    ],
+    [
+     744.1,
+     1027.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.64",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1087.8,
+     94.9
+    ],
+    [
+     1167.7,
+     94.9
+    ],
+    [
+     1167.7,
+     228.8
+    ],
+    [
+     1087.8,
+     228.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.62",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     865.8,
+     1098.4
+    ],
+    [
+     940.0,
+     1098.4
+    ],
+    [
+     940.0,
+     1171.3
+    ],
+    [
+     865.8,
+     1171.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.61",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     336.6,
+     275.5
+    ],
+    [
+     423.6,
+     275.5
+    ],
+    [
+     423.6,
+     480.7
+    ],
+    [
+     336.6,
+     480.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.61",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     619.6,
+     253.7
+    ],
+    [
+     671.3,
+     253.7
+    ],
+    [
+     671.3,
+     396.1
+    ],
+    [
+     619.6,
+     396.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.61",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     927.3,
+     388.6
+    ],
+    [
+     998.4,
+     388.6
+    ],
+    [
+     998.4,
+     500.1
+    ],
+    [
+     927.3,
+     500.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.61",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     964.3,
+     197.6
+    ],
+    [
+     1073.5,
+     197.6
+    ],
+    [
+     1073.5,
+     284.8
+    ],
+    [
+     964.3,
+     284.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.60",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1544.1,
+     271.7
+    ],
+    [
+     1649.5,
+     271.7
+    ],
+    [
+     1649.5,
+     373.5
+    ],
+    [
+     1544.1,
+     373.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.60",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     341.3,
+     270.7
+    ],
+    [
+     429.1,
+     270.7
+    ],
+    [
+     429.1,
+     436.2
+    ],
+    [
+     341.3,
+     436.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.60",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1007.9,
+     603.2
+    ],
+    [
+     1054.5,
+     603.2
+    ],
+    [
+     1054.5,
+     727.2
+    ],
+    [
+     1007.9,
+     727.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.60",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     197.0,
+     86.7
+    ],
+    [
+     374.1,
+     86.7
+    ],
+    [
+     374.1,
+     189.0
+    ],
+    [
+     197.0,
+     189.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.60",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     248.4,
+     1054.1
+    ],
+    [
+     354.1,
+     1054.1
+    ],
+    [
+     354.1,
+     1175.2
+    ],
+    [
+     248.4,
+     1175.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1801.6,
+     99.6
+    ],
+    [
+     1897.9,
+     99.6
+    ],
+    [
+     1897.9,
+     157.8
+    ],
+    [
+     1801.6,
+     157.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     605.4,
+     572.6
+    ],
+    [
+     657.5,
+     572.6
+    ],
+    [
+     657.5,
+     709.0
+    ],
+    [
+     605.4,
+     709.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     782.0,
+     147.5
+    ],
+    [
+     879.2,
+     147.5
+    ],
+    [
+     879.2,
+     262.5
+    ],
+    [
+     782.0,
+     262.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     320.2,
+     143.6
+    ],
+    [
+     427.7,
+     143.6
+    ],
+    [
+     427.7,
+     250.5
+    ],
+    [
+     320.2,
+     250.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1501.8,
+     45.2
+    ],
+    [
+     1569.6,
+     45.2
+    ],
+    [
+     1569.6,
+     179.7
+    ],
+    [
+     1501.8,
+     179.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     599.7,
+     812.9
+    ],
+    [
+     650.9,
+     812.9
+    ],
+    [
+     650.9,
+     933.6
+    ],
+    [
+     599.7,
+     933.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.58",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1.4,
+     909.3
+    ],
+    [
+     61.5,
+     909.3
+    ],
+    [
+     61.5,
+     1054.3
+    ],
+    [
+     1.4,
+     1054.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.58",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1028.7,
+     294.4
+    ],
+    [
+     1074.5,
+     294.4
+    ],
+    [
+     1074.5,
+     421.1
+    ],
+    [
+     1028.7,
+     421.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.58",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1452.5,
+     888.8
+    ],
+    [
+     1520.8,
+     888.8
+    ],
+    [
+     1520.8,
+     985.9
+    ],
+    [
+     1452.5,
+     985.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.57",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     797.3,
+     862.7
+    ],
+    [
+     844.0,
+     862.7
+    ],
+    [
+     844.0,
+     965.6
+    ],
+    [
+     797.3,
+     965.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.57",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1229.5,
+     65.3
+    ],
+    [
+     1300.0,
+     65.3
+    ],
+    [
+     1300.0,
+     208.3
+    ],
+    [
+     1229.5,
+     208.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.56",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1736.5,
+     349.5
+    ],
+    [
+     1818.7,
+     349.5
+    ],
+    [
+     1818.7,
+     396.2
+    ],
+    [
+     1736.5,
+     396.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.56",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1425.6,
+     509.4
+    ],
+    [
+     1498.5,
+     509.4
+    ],
+    [
+     1498.5,
+     629.1
+    ],
+    [
+     1425.6,
+     629.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.56",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     259.6,
+     1055.2
+    ],
+    [
+     353.9,
+     1055.2
+    ],
+    [
+     353.9,
+     1137.3
+    ],
+    [
+     259.6,
+     1137.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.55",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1050.1,
+     66.0
+    ],
+    [
+     1101.9,
+     66.0
+    ],
+    [
+     1101.9,
+     197.5
+    ],
+    [
+     1050.1,
+     197.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.55",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     581.5,
+     470.5
+    ],
+    [
+     689.2,
+     470.5
+    ],
+    [
+     689.2,
+     563.8
+    ],
+    [
+     581.5,
+     563.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.54",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1093.3,
+     770.1
+    ],
+    [
+     1143.6,
+     770.1
+    ],
+    [
+     1143.6,
+     894.3
+    ],
+    [
+     1093.3,
+     894.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.54",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1630.6,
+     313.2
+    ],
+    [
+     1712.0,
+     313.2
+    ],
+    [
+     1712.0,
+     403.8
+    ],
+    [
+     1630.6,
+     403.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     945.7,
+     1220.1
+    ],
+    [
+     1033.6,
+     1220.1
+    ],
+    [
+     1033.6,
+     1272.0
+    ],
+    [
+     945.7,
+     1272.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     278.9,
+     854.2
+    ],
+    [
+     361.7,
+     854.2
+    ],
+    [
+     361.7,
+     913.2
+    ],
+    [
+     278.9,
+     913.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1830.7,
+     193.5
+    ],
+    [
+     1912.1,
+     193.5
+    ],
+    [
+     1912.1,
+     301.8
+    ],
+    [
+     1830.7,
+     301.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1164.3,
+     149.1
+    ],
+    [
+     1215.3,
+     149.1
+    ],
+    [
+     1215.3,
+     274.3
+    ],
+    [
+     1164.3,
+     274.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     204.6,
+     237.6
+    ],
+    [
+     363.7,
+     237.6
+    ],
+    [
+     363.7,
+     382.2
+    ],
+    [
+     204.6,
+     382.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     794.2,
+     411.1
+    ],
+    [
+     874.0,
+     411.1
+    ],
+    [
+     874.0,
+     486.0
+    ],
+    [
+     794.2,
+     486.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.53",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1675.8,
+     579.2
+    ],
+    [
+     1714.3,
+     579.2
+    ],
+    [
+     1714.3,
+     684.0
+    ],
+    [
+     1675.8,
+     684.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.52",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     943.7,
+     709.1
+    ],
+    [
+     995.0,
+     709.1
+    ],
+    [
+     995.0,
+     823.6
+    ],
+    [
+     943.7,
+     823.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.52",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1123.9,
+     867.7
+    ],
+    [
+     1216.4,
+     867.7
+    ],
+    [
+     1216.4,
+     926.7
+    ],
+    [
+     1123.9,
+     926.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.52",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     675.2,
+     1020.3
+    ],
+    [
+     776.5,
+     1020.3
+    ],
+    [
+     776.5,
+     1073.5
+    ],
+    [
+     675.2,
+     1073.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.52",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     741.1,
+     806.9
+    ],
+    [
+     795.7,
+     806.9
+    ],
+    [
+     795.7,
+     936.7
+    ],
+    [
+     741.1,
+     936.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.51",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1297.9,
+     436.6
+    ],
+    [
+     1393.7,
+     436.6
+    ],
+    [
+     1393.7,
+     513.4
+    ],
+    [
+     1297.9,
+     513.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.50",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1059.5,
+     401.1
+    ],
+    [
+     1120.2,
+     401.1
+    ],
+    [
+     1120.2,
+     531.9
+    ],
+    [
+     1059.5,
+     531.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.50",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1193.5,
+     560.4
+    ],
+    [
+     1235.5,
+     560.4
+    ],
+    [
+     1235.5,
+     697.5
+    ],
+    [
+     1193.5,
+     697.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.49",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1665.6,
+     418.4
+    ],
+    [
+     1742.9,
+     418.4
+    ],
+    [
+     1742.9,
+     480.0
+    ],
+    [
+     1665.6,
+     480.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.49",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1083.3,
+     235.4
+    ],
+    [
+     1157.9,
+     235.4
+    ],
+    [
+     1157.9,
+     298.7
+    ],
+    [
+     1083.3,
+     298.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.49",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     646.0,
+     529.1
+    ],
+    [
+     737.0,
+     529.1
+    ],
+    [
+     737.0,
+     598.3
+    ],
+    [
+     646.0,
+     598.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.49",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     512.0,
+     340.3
+    ],
+    [
+     576.9,
+     340.3
+    ],
+    [
+     576.9,
+     490.4
+    ],
+    [
+     512.0,
+     490.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.48",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1663.7,
+     918.4
+    ],
+    [
+     1712.2,
+     918.4
+    ],
+    [
+     1712.2,
+     1028.3
+    ],
+    [
+     1663.7,
+     1028.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.48",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1521.4,
+     416.4
+    ],
+    [
+     1582.8,
+     416.4
+    ],
+    [
+     1582.8,
+     498.6
+    ],
+    [
+     1521.4,
+     498.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.48",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     719.0,
+     673.8
+    ],
+    [
+     815.1,
+     673.8
+    ],
+    [
+     815.1,
+     776.7
+    ],
+    [
+     719.0,
+     776.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.48",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1381.3,
+     122.5
+    ],
+    [
+     1495.6,
+     122.5
+    ],
+    [
+     1495.6,
+     195.0
+    ],
+    [
+     1381.3,
+     195.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1771.4,
+     187.9
+    ],
+    [
+     1816.9,
+     187.9
+    ],
+    [
+     1816.9,
+     318.0
+    ],
+    [
+     1771.4,
+     318.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1397.3,
+     310.8
+    ],
+    [
+     1456.0,
+     310.8
+    ],
+    [
+     1456.0,
+     430.4
+    ],
+    [
+     1397.3,
+     430.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     769.9,
+     454.2
+    ],
+    [
+     821.5,
+     454.2
+    ],
+    [
+     821.5,
+     583.8
+    ],
+    [
+     769.9,
+     583.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     579.2,
+     948.5
+    ],
+    [
+     667.2,
+     948.5
+    ],
+    [
+     667.2,
+     1018.9
+    ],
+    [
+     579.2,
+     1018.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1229.0,
+     503.5
+    ],
+    [
+     1289.8,
+     503.5
+    ],
+    [
+     1289.8,
+     598.1
+    ],
+    [
+     1229.0,
+     598.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1559.4,
+     141.6
+    ],
+    [
+     1625.6,
+     141.6
+    ],
+    [
+     1625.6,
+     277.0
+    ],
+    [
+     1559.4,
+     277.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.47",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1596.9,
+     903.0
+    ],
+    [
+     1657.0,
+     903.0
+    ],
+    [
+     1657.0,
+     1028.8
+    ],
+    [
+     1596.9,
+     1028.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.46",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     420.2,
+     257.6
+    ],
+    [
+     485.3,
+     257.6
+    ],
+    [
+     485.3,
+     413.1
+    ],
+    [
+     420.2,
+     413.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.46",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     803.8,
+     760.6
+    ],
+    [
+     870.6,
+     760.6
+    ],
+    [
+     870.6,
+     871.3
+    ],
+    [
+     803.8,
+     871.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.46",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1284.7,
+     522.9
+    ],
+    [
+     1375.4,
+     522.9
+    ],
+    [
+     1375.4,
+     581.1
+    ],
+    [
+     1284.7,
+     581.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.46",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     730.5,
+     141.0
+    ],
+    [
+     793.1,
+     141.0
+    ],
+    [
+     793.1,
+     265.5
+    ],
+    [
+     730.5,
+     265.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.45",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     532.1,
+     1110.6
+    ],
+    [
+     630.0,
+     1110.6
+    ],
+    [
+     630.0,
+     1173.5
+    ],
+    [
+     532.1,
+     1173.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.45",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     931.4,
+     251.4
+    ],
+    [
+     1015.6,
+     251.4
+    ],
+    [
+     1015.6,
+     337.8
+    ],
+    [
+     931.4,
+     337.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.45",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     672.2,
+     255.6
+    ],
+    [
+     716.1,
+     255.6
+    ],
+    [
+     716.1,
+     395.1
+    ],
+    [
+     672.2,
+     395.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1725.5,
+     229.5
+    ],
+    [
+     1759.8,
+     229.5
+    ],
+    [
+     1759.8,
+     345.2
+    ],
+    [
+     1725.5,
+     345.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     937.5,
+     941.4
+    ],
+    [
+     991.9,
+     941.4
+    ],
+    [
+     991.9,
+     1036.5
+    ],
+    [
+     937.5,
+     1036.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     886.9,
+     792.0
+    ],
+    [
+     926.5,
+     792.0
+    ],
+    [
+     926.5,
+     906.1
+    ],
+    [
+     886.9,
+     906.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     409.3,
+     407.2
+    ],
+    [
+     466.3,
+     407.2
+    ],
+    [
+     466.3,
+     517.2
+    ],
+    [
+     409.3,
+     517.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1090.5,
+     315.2
+    ],
+    [
+     1129.3,
+     315.2
+    ],
+    [
+     1129.3,
+     423.5
+    ],
+    [
+     1090.5,
+     423.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.43",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     59.6,
+     540.3
+    ],
+    [
+     116.4,
+     540.3
+    ],
+    [
+     116.4,
+     661.7
+    ],
+    [
+     59.6,
+     661.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.43",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     0.6,
+     662.9
+    ],
+    [
+     50.5,
+     662.9
+    ],
+    [
+     50.5,
+     811.8
+    ],
+    [
+     0.6,
+     811.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.43",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     951.4,
+     530.9
+    ],
+    [
+     991.4,
+     530.9
+    ],
+    [
+     991.4,
+     643.1
+    ],
+    [
+     951.4,
+     643.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.43",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1001.2,
+     743.4
+    ],
+    [
+     1034.5,
+     743.4
+    ],
+    [
+     1034.5,
+     880.4
+    ],
+    [
+     1001.2,
+     880.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.42",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1175.5,
+     470.1
+    ],
+    [
+     1221.7,
+     470.1
+    ],
+    [
+     1221.7,
+     581.6
+    ],
+    [
+     1175.5,
+     581.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.42",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     685.6,
+     112.9
+    ],
+    [
+     728.6,
+     112.9
+    ],
+    [
+     728.6,
+     244.7
+    ],
+    [
+     685.6,
+     244.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     332.2,
+     316.6
+    ],
+    [
+     407.4,
+     316.6
+    ],
+    [
+     407.4,
+     487.2
+    ],
+    [
+     332.2,
+     487.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     204.4,
+     237.6
+    ],
+    [
+     361.6,
+     237.6
+    ],
+    [
+     361.6,
+     310.1
+    ],
+    [
+     204.4,
+     310.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1044.2,
+     754.2
+    ],
+    [
+     1080.7,
+     754.2
+    ],
+    [
+     1080.7,
+     903.6
+    ],
+    [
+     1044.2,
+     903.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     734.3,
+     455.5
+    ],
+    [
+     787.5,
+     455.5
+    ],
+    [
+     787.5,
+     587.4
+    ],
+    [
+     734.3,
+     587.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     882.7,
+     943.5
+    ],
+    [
+     931.5,
+     943.5
+    ],
+    [
+     931.5,
+     1063.9
+    ],
+    [
+     882.7,
+     1063.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     849.6,
+     617.3
+    ],
+    [
+     891.8,
+     617.3
+    ],
+    [
+     891.8,
+     776.5
+    ],
+    [
+     849.6,
+     776.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     510.4,
+     290.8
+    ],
+    [
+     562.8,
+     290.8
+    ],
+    [
+     562.8,
+     490.7
+    ],
+    [
+     510.4,
+     490.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1207.4,
+     147.9
+    ],
+    [
+     1264.9,
+     147.9
+    ],
+    [
+     1264.9,
+     268.3
+    ],
+    [
+     1207.4,
+     268.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.41",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     999.7,
+     452.6
+    ],
+    [
+     1037.6,
+     452.6
+    ],
+    [
+     1037.6,
+     568.3
+    ],
+    [
+     999.7,
+     568.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.40",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     610.0,
+     391.6
+    ],
+    [
+     666.1,
+     391.6
+    ],
+    [
+     666.1,
+     494.7
+    ],
+    [
+     610.0,
+     494.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.40",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     483.3,
+     288.4
+    ],
+    [
+     544.3,
+     288.4
+    ],
+    [
+     544.3,
+     412.6
+    ],
+    [
+     483.3,
+     412.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.40",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1110.4,
+     675.6
+    ],
+    [
+     1167.6,
+     675.6
+    ],
+    [
+     1167.6,
+     786.2
+    ],
+    [
+     1110.4,
+     786.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     228.6,
+     88.5
+    ],
+    [
+     385.2,
+     88.5
+    ],
+    [
+     385.2,
+     220.5
+    ],
+    [
+     228.6,
+     220.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     717.6,
+     673.3
+    ],
+    [
+     808.3,
+     673.3
+    ],
+    [
+     808.3,
+     837.8
+    ],
+    [
+     717.6,
+     837.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     635.9,
+     696.9
+    ],
+    [
+     681.4,
+     696.9
+    ],
+    [
+     681.4,
+     830.6
+    ],
+    [
+     635.9,
+     830.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1523.4,
+     630.7
+    ],
+    [
+     1574.8,
+     630.7
+    ],
+    [
+     1574.8,
+     757.3
+    ],
+    [
+     1523.4,
+     757.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.39",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1010.0,
+     890.3
+    ],
+    [
+     1049.9,
+     890.3
+    ],
+    [
+     1049.9,
+     990.8
+    ],
+    [
+     1010.0,
+     990.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1300.2,
+     672.3
+    ],
+    [
+     1354.6,
+     672.3
+    ],
+    [
+     1354.6,
+     789.6
+    ],
+    [
+     1300.2,
+     789.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1812.8,
+     687.0
+    ],
+    [
+     1862.7,
+     687.0
+    ],
+    [
+     1862.7,
+     790.8
+    ],
+    [
+     1812.8,
+     790.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     823.3,
+     487.9
+    ],
+    [
+     861.9,
+     487.9
+    ],
+    [
+     861.9,
+     611.7
+    ],
+    [
+     823.3,
+     611.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1873.8,
+     639.8
+    ],
+    [
+     1916.1,
+     639.8
+    ],
+    [
+     1916.1,
+     749.3
+    ],
+    [
+     1873.8,
+     749.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1179.0,
+     694.6
+    ],
+    [
+     1219.1,
+     694.6
+    ],
+    [
+     1219.1,
+     801.2
+    ],
+    [
+     1179.0,
+     801.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1192.4,
+     800.7
+    ],
+    [
+     1269.0,
+     800.7
+    ],
+    [
+     1269.0,
+     868.1
+    ],
+    [
+     1192.4,
+     868.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.37",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     330.8,
+     893.4
+    ],
+    [
+     409.3,
+     893.4
+    ],
+    [
+     409.3,
+     1008.1
+    ],
+    [
+     330.8,
+     1008.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.37",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1549.4,
+     184.0
+    ],
+    [
+     1622.7,
+     184.0
+    ],
+    [
+     1622.7,
+     277.4
+    ],
+    [
+     1549.4,
+     277.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.37",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1193.4,
+     149.2
+    ],
+    [
+     1254.5,
+     149.2
+    ],
+    [
+     1254.5,
+     273.6
+    ],
+    [
+     1193.4,
+     273.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1236.3,
+     396.3
+    ],
+    [
+     1291.5,
+     396.3
+    ],
+    [
+     1291.5,
+     500.1
+    ],
+    [
+     1236.3,
+     500.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     774.0,
+     258.7
+    ],
+    [
+     822.8,
+     258.7
+    ],
+    [
+     822.8,
+     362.6
+    ],
+    [
+     774.0,
+     362.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1361.4,
+     816.4
+    ],
+    [
+     1415.1,
+     816.4
+    ],
+    [
+     1415.1,
+     919.2
+    ],
+    [
+     1361.4,
+     919.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1589.7,
+     597.3
+    ],
+    [
+     1618.6,
+     597.3
+    ],
+    [
+     1618.6,
+     715.7
+    ],
+    [
+     1589.7,
+     715.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     464.2,
+     287.1
+    ],
+    [
+     520.8,
+     287.1
+    ],
+    [
+     520.8,
+     414.5
+    ],
+    [
+     464.2,
+     414.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     601.5,
+     392.7
+    ],
+    [
+     668.5,
+     392.7
+    ],
+    [
+     668.5,
+     552.5
+    ],
+    [
+     601.5,
+     552.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1347.9,
+     305.0
+    ],
+    [
+     1400.6,
+     305.0
+    ],
+    [
+     1400.6,
+     421.5
+    ],
+    [
+     1347.9,
+     421.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     915.7,
+     607.1
+    ],
+    [
+     952.7,
+     607.1
+    ],
+    [
+     952.7,
+     731.4
+    ],
+    [
+     915.7,
+     731.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.34",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1494.2,
+     530.7
+    ],
+    [
+     1601.2,
+     530.7
+    ],
+    [
+     1601.2,
+     610.8
+    ],
+    [
+     1494.2,
+     610.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.34",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1335.9,
+     306.5
+    ],
+    [
+     1389.8,
+     306.5
+    ],
+    [
+     1389.8,
+     420.9
+    ],
+    [
+     1335.9,
+     420.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     509.9,
+     384.0
+    ],
+    [
+     580.6,
+     384.0
+    ],
+    [
+     580.6,
+     489.0
+    ],
+    [
+     509.9,
+     489.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1243.0,
+     214.4
+    ],
+    [
+     1336.7,
+     214.4
+    ],
+    [
+     1336.7,
+     302.0
+    ],
+    [
+     1243.0,
+     302.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1569.6,
+     755.4
+    ],
+    [
+     1627.0,
+     755.4
+    ],
+    [
+     1627.0,
+     837.4
+    ],
+    [
+     1569.6,
+     837.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1511.8,
+     779.5
+    ],
+    [
+     1574.7,
+     779.5
+    ],
+    [
+     1574.7,
+     894.6
+    ],
+    [
+     1511.8,
+     894.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1670.5,
+     471.5
+    ],
+    [
+     1713.3,
+     471.5
+    ],
+    [
+     1713.3,
+     575.0
+    ],
+    [
+     1670.5,
+     575.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1647.2,
+     134.9
+    ],
+    [
+     1710.6,
+     134.9
+    ],
+    [
+     1710.6,
+     202.4
+    ],
+    [
+     1647.2,
+     202.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1291.7,
+     675.2
+    ],
+    [
+     1344.1,
+     675.2
+    ],
+    [
+     1344.1,
+     789.7
+    ],
+    [
+     1291.7,
+     789.7
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.32",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1636.9,
+     192.2
+    ],
+    [
+     1710.2,
+     192.2
+    ],
+    [
+     1710.2,
+     322.1
+    ],
+    [
+     1636.9,
+     322.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.32",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1140.5,
+     276.3
+    ],
+    [
+     1183.9,
+     276.3
+    ],
+    [
+     1183.9,
+     369.3
+    ],
+    [
+     1140.5,
+     369.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     738.9,
+     453.0
+    ],
+    [
+     815.1,
+     453.0
+    ],
+    [
+     815.1,
+     586.3
+    ],
+    [
+     738.9,
+     586.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1360.1,
+     239.2
+    ],
+    [
+     1456.8,
+     239.2
+    ],
+    [
+     1456.8,
+     302.0
+    ],
+    [
+     1360.1,
+     302.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1872.0,
+     48.4
+    ],
+    [
+     1920.0,
+     48.4
+    ],
+    [
+     1920.0,
+     113.5
+    ],
+    [
+     1872.0,
+     113.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1650.5,
+     104.3
+    ],
+    [
+     1717.8,
+     104.3
+    ],
+    [
+     1717.8,
+     202.3
+    ],
+    [
+     1650.5,
+     202.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1134.3,
+     615.3
+    ],
+    [
+     1192.0,
+     615.3
+    ],
+    [
+     1192.0,
+     697.5
+    ],
+    [
+     1134.3,
+     697.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1687.1,
+     94.0
+    ],
+    [
+     1790.6,
+     94.0
+    ],
+    [
+     1790.6,
+     198.1
+    ],
+    [
+     1687.1,
+     198.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1468.1,
+     987.5
+    ],
+    [
+     1520.6,
+     987.5
+    ],
+    [
+     1520.6,
+     1091.1
+    ],
+    [
+     1468.1,
+     1091.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1275.5,
+     967.9
+    ],
+    [
+     1349.1,
+     967.9
+    ],
+    [
+     1349.1,
+     1041.6
+    ],
+    [
+     1275.5,
+     1041.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.30",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     940.2,
+     241.1
+    ],
+    [
+     1025.4,
+     241.1
+    ],
+    [
+     1025.4,
+     341.9
+    ],
+    [
+     940.2,
+     341.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.30",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "3d3a9cf30838df16.jpg",
+ "imageData": null,
+ "imageHeight": 1440,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Bees_on_capped_worker_brood.jpg",
+ "license": "CC BY 4.0",
+ "author": "Einebillion",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

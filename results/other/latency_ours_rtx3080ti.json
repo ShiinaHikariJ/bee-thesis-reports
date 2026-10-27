@@ -1,0 +1,20 @@
+{
+ "dinov3s_joint": {
+  "bee": 21.01,
+  "cell": 21.07,
+  "queen": 20.89,
+  "content": 17.31
+ },
+ "dinov3s_joint_uw": {
+  "bee": 21.07,
+  "cell": 21.08,
+  "queen": 21.17,
+  "content": 17.25
+ },
+ "dinov3s_ours_cp_p50": {
+  "bee": 21.19,
+  "cell": 20.93,
+  "queen": 20.81,
+  "content": 16.91
+ }
+}

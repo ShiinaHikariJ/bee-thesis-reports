@@ -1,0 +1,45 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     432.8,
+     274.2
+    ],
+    [
+     509.0,
+     274.2
+    ],
+    [
+     509.0,
+     391.4
+    ],
+    [
+     432.8,
+     391.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.80",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "eecbcb94b28af275.jpg",
+ "imageData": null,
+ "imageHeight": 2336,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:HoneyComb.jpg",
+ "license": "CC BY-SA 4.0",
+ "author": "Joska16",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

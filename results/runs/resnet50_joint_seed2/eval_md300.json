@@ -1,0 +1,73 @@
+{
+ "max_det": 300,
+ "bee_public_val": {
+  "positive_images": 156,
+  "gt_boxes": 1809,
+  "negative_views": 0,
+  "ap50_positives_only": 0.732272048490817,
+  "ap50_with_negatives": 0.732272048490817,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.5789692435577722,
+  "recall": 0.7700386954118298,
+  "precision_including_negatives": 0.5789692435577722,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "bee_external_hivemind": {
+  "positive_images": 199,
+  "gt_boxes": 5134,
+  "negative_views": 0,
+  "ap50_positives_only": 0.41276755710052265,
+  "ap50_with_negatives": 0.41276755710052265,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.32409821816601475,
+  "recall": 0.5810284378652123,
+  "precision_including_negatives": 0.32409821816601475,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "queen_val": {
+  "positive_images": 176,
+  "gt_boxes": 355,
+  "negative_views": 152,
+  "ap50_positives_only": 0.7930241926081553,
+  "ap50_with_negatives": 0.7867609682944714,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.7419354838709677,
+  "recall": 0.7774647887323943,
+  "precision_including_negatives": 0.7340425531914894,
+  "negative_false_positives": 4,
+  "negative_views_with_any_detection": 3,
+  "negative_fp_per_view": 0.02631578947368421
+ },
+ "queen_test": {
+  "positive_images": 98,
+  "gt_boxes": 205,
+  "negative_views": 0,
+  "ap50_positives_only": 0.8068034380714015,
+  "ap50_with_negatives": 0.8068034380714015,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.7208333333333333,
+  "recall": 0.8439024390243902,
+  "precision_including_negatives": 0.7208333333333333,
+  "negative_false_positives": 0,
+  "negative_views_with_any_detection": 0,
+  "negative_fp_per_view": null
+ },
+ "queen_external": {
+  "positive_images": 152,
+  "gt_boxes": 343,
+  "negative_views": 600,
+  "ap50_positives_only": 0.30219658210599587,
+  "ap50_with_negatives": 0.22466359530714022,
+  "operating_conf": 0.25,
+  "precision_positive_images": 0.38484848484848483,
+  "recall": 0.37026239067055394,
+  "precision_including_negatives": 0.2170940170940171,
+  "negative_false_positives": 255,
+  "negative_views_with_any_detection": 133,
+  "negative_fp_per_view": 0.425
+ }
+}

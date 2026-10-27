@@ -1,0 +1,51 @@
+{
+ "threshold": 6,
+ "n_test": 98,
+ "near_duplicates": [
+  {
+   "id": "Qtest0013",
+   "path": "queencell/queen_cell_single/train/images/images-13-_jpeg.rf.06883aacd43326f6c635474aa0b3073b.jpg",
+   "hamming": 6
+  },
+  {
+   "id": "Qtest0015",
+   "path": "queencell/queen_cell_single/train/images/images-13-_jpeg.rf.423658c51f981a523c50aa9f47ca5747.jpg",
+   "hamming": 1
+  },
+  {
+   "id": "Qtest0016",
+   "path": "queencell/queen_cell_single/train/images/images-13-_jpeg.rf.666b9d8c251f5cf45836750ffca6cb27.jpg",
+   "hamming": 0
+  },
+  {
+   "id": "Qtest0033",
+   "path": "queencell/queen_cell_single/valid/images/images-8-_jpeg.rf.447112dc54245427933c08b6611a1ddc.jpg",
+   "hamming": 0
+  },
+  {
+   "id": "Qtest0048",
+   "path": "queencell/queen_cell_single/test/images/2025-05-23-114850_png.rf.7470a1698418820cf809bc4c044196a7.jpg",
+   "hamming": 1
+  },
+  {
+   "id": "Qtest0054",
+   "path": "queencell/queen_cell_single/test/images/IMG20230514184022_jpg.rf.cd78ac910a7c9eed4f29e595cedb276b.jpg",
+   "hamming": 6
+  },
+  {
+   "id": "Qtest0065",
+   "path": "queencell/queen_cell_single/test/images/Queen-cells-Rusty-Burlew_webp.rf.b747614e1e99ec3c2ab23c48a430024f.jpg",
+   "hamming": 2
+  },
+  {
+   "id": "Qtest0072",
+   "path": "queencell/queen_cell_single/test/images/Should-I-destroy-extra-queen-cells__jpg.rf.2bff2c698a040b2009c2aad943a2dbce.jpg",
+   "hamming": 1
+  },
+  {
+   "id": "Qtest0074",
+   "path": "queencell/queen_cell_single/test/images/c86f50cc138308b5b24e7daf40a4d0be_jpg.rf.c5ce1ac1870fe5c7d69901793fb75db3.jpg",
+   "hamming": 0
+  }
+ ]
+}

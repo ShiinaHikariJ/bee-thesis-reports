@@ -1,0 +1,227 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     218.7,
+     1185.0
+    ],
+    [
+     242.9,
+     1185.0
+    ],
+    [
+     242.9,
+     1211.4
+    ],
+    [
+     218.7,
+     1211.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.44",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     666.3,
+     575.7
+    ],
+    [
+     698.4,
+     575.7
+    ],
+    [
+     698.4,
+     599.4
+    ],
+    [
+     666.3,
+     599.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.42",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     488.3,
+     644.5
+    ],
+    [
+     510.0,
+     644.5
+    ],
+    [
+     510.0,
+     678.5
+    ],
+    [
+     488.3,
+     678.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.40",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     741.8,
+     448.0
+    ],
+    [
+     761.8,
+     448.0
+    ],
+    [
+     761.8,
+     487.3
+    ],
+    [
+     741.8,
+     487.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.38",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     618.2,
+     390.6
+    ],
+    [
+     643.3,
+     390.6
+    ],
+    [
+     643.3,
+     416.3
+    ],
+    [
+     618.2,
+     416.3
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     576.6,
+     512.1
+    ],
+    [
+     597.9,
+     512.1
+    ],
+    [
+     597.9,
+     557.6
+    ],
+    [
+     576.6,
+     557.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1196.6,
+     1221.5
+    ],
+    [
+     1223.9,
+     1221.5
+    ],
+    [
+     1223.9,
+     1238.4
+    ],
+    [
+     1196.6,
+     1238.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     840.2,
+     1105.2
+    ],
+    [
+     869.4,
+     1105.2
+    ],
+    [
+     869.4,
+     1145.0
+    ],
+    [
+     840.2,
+     1145.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "b3e420b5a31368c1.jpg",
+ "imageData": null,
+ "imageHeight": 1280,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Beekeeper_holding_a_new_beehive_frame_(48414414222).jpg",
+ "license": "CC BY 2.0",
+ "author": "Ivan Radic",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}

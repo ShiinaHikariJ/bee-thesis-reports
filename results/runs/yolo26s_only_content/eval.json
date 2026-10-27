@@ -1,0 +1,53 @@
+{
+ "family": "yolo26s",
+ "tasks": [
+  "content"
+ ],
+ "parameters": {
+  "total": 6117576,
+  "backbone": 5441984,
+  "content_head": 675592
+ },
+ "content_val": {
+  "public": {
+   "n": 13223,
+   "accuracy": 0.9869167359903199,
+   "macro_f1_supported_classes": 0.9850556708557493
+  },
+  "field": {
+   "n": 49,
+   "accuracy": 0.9591836734693877,
+   "macro_f1_supported_classes": 0.6447971781305114
+  }
+ },
+ "deepbee_official_test": {
+  "images": [
+   "DSC_0818.JPG",
+   "DSC_0819.JPG",
+   "DSC_0820.JPG",
+   "DSC_0828.JPG",
+   "DSC_0837.JPG",
+   "DSC_0838.JPG",
+   "DSC_0840.JPG",
+   "DSC_0841.JPG",
+   "DSC_0844.JPG",
+   "DSC_0848.JPG"
+  ],
+  "oracle_classification": {
+   "accuracy": 0.8970895695748847,
+   "n": 30133,
+   "per_class_recall": {
+    "capped": 0.9974736842105263,
+    "eggs": 0.8676716917922948,
+    "honey": 0.978125,
+    "larva": 0.859796550199027,
+    "nectar": 0.8879598662207357,
+    "pollen": 0.9299258037922506,
+    "other": 0.8582647718773373
+   }
+  }
+ },
+ "latency_ms_batch1": {
+  "content": 5.21
+ }
+}

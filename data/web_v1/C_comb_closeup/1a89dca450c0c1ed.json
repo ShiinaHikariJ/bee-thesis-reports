@@ -1,0 +1,253 @@
+{
+ "version": "6.3.1",
+ "flags": {
+  "draft": true,
+  "needs_review": true
+ },
+ "shapes": [
+  {
+   "label": "bee",
+   "points": [
+    [
+     6.7,
+     1307.4
+    ],
+    [
+     361.2,
+     1307.4
+    ],
+    [
+     361.2,
+     1609.9
+    ],
+    [
+     6.7,
+     1609.9
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.73",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     603.9,
+     1.4
+    ],
+    [
+     974.1,
+     1.4
+    ],
+    [
+     974.1,
+     390.2
+    ],
+    [
+     603.9,
+     390.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.61",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1603.0,
+     209.9
+    ],
+    [
+     1920.0,
+     209.9
+    ],
+    [
+     1920.0,
+     989.4
+    ],
+    [
+     1603.0,
+     989.4
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.59",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1215.7,
+     4.7
+    ],
+    [
+     1894.5,
+     4.7
+    ],
+    [
+     1894.5,
+     663.8
+    ],
+    [
+     1215.7,
+     663.8
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.55",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     64.0,
+     325.3
+    ],
+    [
+     835.5,
+     325.3
+    ],
+    [
+     835.5,
+     1171.5
+    ],
+    [
+     64.0,
+     1171.5
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.54",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     914.5,
+     1453.9
+    ],
+    [
+     1630.3,
+     1453.9
+    ],
+    [
+     1630.3,
+     1612.0
+    ],
+    [
+     914.5,
+     1612.0
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.36",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1184.4,
+     175.5
+    ],
+    [
+     1852.7,
+     175.5
+    ],
+    [
+     1852.7,
+     779.2
+    ],
+    [
+     1184.4,
+     779.2
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.35",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1040.2,
+     75.0
+    ],
+    [
+     1701.7,
+     75.0
+    ],
+    [
+     1701.7,
+     238.1
+    ],
+    [
+     1040.2,
+     238.1
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.33",
+   "flags": {},
+   "mask": null
+  },
+  {
+   "label": "bee",
+   "points": [
+    [
+     1643.4,
+     216.8
+    ],
+    [
+     1920.0,
+     216.8
+    ],
+    [
+     1920.0,
+     817.6
+    ],
+    [
+     1643.4,
+     817.6
+    ]
+   ],
+   "group_id": null,
+   "shape_type": "polygon",
+   "description": "ours pre-label, score 0.31",
+   "flags": {},
+   "mask": null
+  }
+ ],
+ "imagePath": "1a89dca450c0c1ed.jpg",
+ "imageData": null,
+ "imageHeight": 1612,
+ "imageWidth": 1920,
+ "annotation_status": "PREANNOTATION_NOT_GROUND_TRUTH",
+ "source_model": "dinov3s_ours_cp_p50",
+ "source": "https://commons.wikimedia.org/wiki/File:Drone_-_honeybee_(8952360114).jpg",
+ "license": "CC BY 2.0",
+ "author": "Conall from Downpatrick, Northern Ireland",
+ "annotation_scope": "ours pre-labels: bee and queen_cell boxes (as 4-point polygons) only; cell pre-labels removed (unreliable at unknown web-photo scale)"
+}
